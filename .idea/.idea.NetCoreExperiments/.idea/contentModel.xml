@@ -6,6 +6,7 @@
       <e p="ConsoleAppProj" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConsoleAppProj.csproj" t="IncludeRecursive" />
+        <e p="ExpressionExperiments.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.1" t="Include">
