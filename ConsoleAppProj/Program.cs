@@ -7,6 +7,9 @@ namespace ConsoleAppProj
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
+            var ee = new ExpressionExperiments();
+            ee.DoStuff();
         }
     }
 }
