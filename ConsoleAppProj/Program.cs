@@ -8,8 +8,7 @@ namespace ConsoleAppProj
         {
             Console.WriteLine("Hello World!");
             
-            var ee = new ExpressionExperiments();
-            ee.DoStuff();
+            ExpressionExperiments.DoStuff();
         }
     }
 }
