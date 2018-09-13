@@ -17,6 +17,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="UriTester.cs" t="Include" />
       </e>
       <e p="NetCoreExperiments.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

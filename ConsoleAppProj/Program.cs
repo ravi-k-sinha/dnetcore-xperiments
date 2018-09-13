@@ -9,6 +9,8 @@ namespace ConsoleAppProj
             Console.WriteLine("Hello World!");
             
             ExpressionExperiments.DoStuff();
+
+            UriTester.DoStuff();
         }
     }
 }
